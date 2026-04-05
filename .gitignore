@@ -1,0 +1,11 @@
+__pycache__/
+_ignore/
+notes.txt
+*.pyc
+*.pyo
+*.pyd
+build/
+dist/
+*.spec
+.env/
+venv/
